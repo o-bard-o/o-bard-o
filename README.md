@@ -1,4 +1,4 @@
-![yongwookLee's github stats](https://github-readme-stats.vercel.app/api?username=yongwookLee&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongwookLee&hide=php,html,scss,twig)
+![yongwookLee's github stats](https://github-readme-stats.vercel.app/api?username=yongwookLee&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongwookLee&exclude_repo=eye_&langs_count=10)
 <!--
 **yongwookLee/yongwookLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
