@@ -39,6 +39,16 @@
   
 <br>
 
+<h3 align="center">💎 Problem Solving 💎</h3>
+
+<div align="center" style="text-align:center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naxi)](https://solved.ac/naxi)
+
+  
+</div>
+  
+<br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
