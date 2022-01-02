@@ -32,8 +32,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=UIUX-Design)](https://velog.io/@dnr6054)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=Design-Pattern)](https://velog.io/@dnr6054)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054)](https://velog.io/@dnr6054)
   
 </div>
   
