@@ -42,7 +42,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naxi)](https://solved.ac/naxi) <br><br>
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naxi)](https://solved.ac/naxi)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=naxi&theme=warm) <br>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=algorithm)](https://velog.io/@dnr6054)
   
 </div>
