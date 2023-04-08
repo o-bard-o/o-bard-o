@@ -1,11 +1,4 @@
-<div align="center">
-<img alt="header" src = "https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,27:ffebf6,100:c1c6e9&height=250&section=header&text=Yongwook%20Lee&fontSize=90&fontColor=ffffff" />
-</div>
-
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -22,11 +15,16 @@
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat-square&logo=Cinema4D&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Tensorflow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
@@ -35,8 +33,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=Unit-testing)](https://velog.io/@dnr6054)
-  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=AI)](https://velog.io/@dnr6054) <br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=diary)](https://velog.io/@dnr6054)
 </div>
   
 <br>
@@ -65,6 +63,3 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi4song&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<div align="center">
-<img alt="footer" src = "https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,27:ffebf6,100:c1c6e9&height=250&section=footer" />
-</div>
