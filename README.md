@@ -21,10 +21,6 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Cinema4D-011A6A?style=flat-square&logo=Cinema4D&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Tensorflow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
@@ -33,7 +29,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054&tag=diary)](https://velog.io/@dnr6054)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnr6054)](https://velog.io/@dnr6054)
 </div>
   
 <br>
@@ -42,9 +38,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naxi)](https://solved.ac/naxi)
-  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=naxi&theme=warm)](https://solved.ac/naxi) <br>
-  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naxi)](https://solved.ac/naxi)  
   
 </div>
   
