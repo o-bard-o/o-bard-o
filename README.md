@@ -1,4 +1,3 @@
-![11](./bg.png)
 [![Solved.ac Diamond II](http://mazassumnida.wtf/api/mini/generate_badge?boj=naxi)](https://solved.ac/profile/naxi)
 [![My Blog](https://img.shields.io/badge/Blog-20C997?logo=Velog&logoColor=fff)](https://velog.io/@dnr6054)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/i4song/)
