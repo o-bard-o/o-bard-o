@@ -5,11 +5,9 @@
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=Devpost&logoColor=fff)](https://devpost.com/yongwookLee)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=fff)](https://www.youtube.com/@skkuorchestra)
 ---
-## Frontend Engineer
 
-- 프론트엔드를 공부하고 있습니다.
-- 사용자 경험을 개선하는 것과 새로운 기술을 익히는 것, 일을 잘하는 법에 관심이 많습니다.
-- 기업 해커톤 국내 1위, 아시아-태평양 1위, ACM-ICPC 국내 결선 12위를 달성한 적이 있습니다.
+## Yongwook Lee
+- Recently broke up with FE engineering
 
 ## Career
 
