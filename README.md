@@ -38,30 +38,30 @@
 
 ### International
 
-- **준우승 `2021`**
+- **2nd Place `2021`**
     
     Chainlink Virtual Hackathon Spring 2021
     
-- **아시아 태평양 1위 `2021`**
+- **Asia-Pacific 1st `2021`**
     
     KPMG Ideathon Challenge 2021 | Global Round
     
-- **2위 `2020`**
+- **2nd Place `2020`**
     
     ICON HYPERHACK: Season 1
     
-- **결선 진출** `2020`
+- **Finalist** `2020`
     
     IBM call for code korea hackathon
     
 
 ### Domestic
 
-- **국내 1위 `2021`**
+- **Winner `2021`**
     
     KPMG Ideathon Challenge 2021 | Korea Regional
 
-- **장려상 (12위)** `2020`
+- **Encouragement Prize (12th place)** `2020`
     
     2020 ICPC Korea Regional Seoul
 
