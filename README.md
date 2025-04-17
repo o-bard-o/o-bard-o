@@ -1,7 +1,3 @@
-
-![00d4bdb7-6b0a-4729-a864-65b73df41e5e](https://github.com/user-attachments/assets/dac42dce-ab33-4209-be2f-b7785e4ea72d)
-
-
 [![Solved.ac Diamond II](http://mazassumnida.wtf/api/mini/generate_badge?boj=naxi)](https://solved.ac/profile/naxi)
 [![My Blog](https://img.shields.io/badge/Blog-20C997?logo=Velog&logoColor=fff)](https://velog.io/@dnr6054)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/i4song/)
@@ -70,6 +66,8 @@
     2020 ICPC Korea Regional Seoul
 
 
+
+![00d4bdb7-6b0a-4729-a864-65b73df41e5e](https://github.com/user-attachments/assets/dac42dce-ab33-4209-be2f-b7785e4ea72d)
 
 
 
