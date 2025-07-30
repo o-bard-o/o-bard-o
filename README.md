@@ -11,7 +11,7 @@
 
 ## Career
 
-💙 **Rideflux (Intern)** (**`2025.06` ~ `2025.08`**)
+💙 **Rideflux (Intern)** - R&D Engineer @ Perception Unit (**`2025.06` ~ `2025.08`**)
 
 ❤️ **Musetown. Inc (Intern)** (**`2022.01` ~ `2022.06`**)
 
