@@ -20,7 +20,7 @@
 
 ## Education
 
-🎓 **Sungkyunwhan Univ. (`2019.03` ~)**
+🎓 **Sungkyunkwan Univ. (`2019.03` ~)**
 
 🏫 **Daejeon Science Highschool for Gifted (`2016.03` ~ `2019.02`)**
 
