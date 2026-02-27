@@ -4,10 +4,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=fff)](https://www.instagram.com/odo_orr/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=Devpost&logoColor=fff)](https://devpost.com/yongwookLee)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=fff)](https://www.youtube.com/@skkuorchestra)
+
 ---
 
 ## Yongwook Lee
 - Inspiring others with perseverance and energy
+
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAgJhsa-wLNU&theme=receipt&label=Now+Playing)](https://www.youtube.com/watch?v=AgJhsa-wLNU)
 
 ## Career
 
