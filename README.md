@@ -14,12 +14,7 @@
 
 ## Career
 
-💙 **Rideflux (Intern)** - R&D Engineer @ Perception Unit (**`2025.06` ~ `2025.08`**)
-
-❤️ **Musetown. Inc (Intern)** (**`2022.01` ~ `2022.06`**)
-
-🧡 **KPMG Korea (Intern)** (**`2021.07` ~ `2021.08`**)
-
+💙 **Rideflux** - R&D Engineer @ Perception Unit (**`2026.02` ~ **)
 
 ## Education
 
