@@ -14,7 +14,7 @@
 
 ## Career
 
-💙 **Rideflux - R&D Engineer @ Perception Unit (`2026.02` ~ )**
+💙 **RideFlux - R&D Engineer @ Perception Unit (`2026.02` ~ )**
 
 ## Education
 
