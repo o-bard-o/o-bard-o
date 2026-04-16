@@ -1,4 +1,3 @@
-[![Solved.ac Diamond I](http://mazassumnida.wtf/api/mini/generate_badge?boj=naxi)](https://solved.ac/profile/naxi)
 [![My Blog](https://img.shields.io/badge/Blog-20C997?logo=Velog&logoColor=fff)](https://velog.io/@dnr6054)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/i4song/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=fff)](https://www.instagram.com/odo_orr/)
@@ -10,7 +9,8 @@
 ## Yongwook Lee
 - Inspiring others with perseverance and energy
 
-[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAgJhsa-wLNU&theme=receipt&label=Now+Playing)](https://www.youtube.com/watch?v=AgJhsa-wLNU)
+[<img width="560" height="482" alt="solvedac-naxi-v2 (1) 1" src="https://github.com/user-attachments/assets/53bd742b-6f99-4ecd-8933-16970f147154" />](https://solved.ac/profile/naxi)
+
 
 ## Career
 
@@ -60,11 +60,6 @@
 - **Encouragement Prize (12th place)** `2020`
     
     2020 ICPC Korea Regional Seoul
-
-
-
-![00d4bdb7-6b0a-4729-a864-65b73df41e5e](https://github.com/user-attachments/assets/dac42dce-ab33-4209-be2f-b7785e4ea72d)
-
 
 
 
